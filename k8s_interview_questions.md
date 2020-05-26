@@ -7,3 +7,4 @@ title: kubernetes Interview k8s_questions
 2. What is the diffrence between docker and kubernetes?
 3. tell three Similar softwares like kubernetes?
 4. What is the diffrence between kubernetes and docker swarm?
+5. What is the difference between automation and orchestration?
