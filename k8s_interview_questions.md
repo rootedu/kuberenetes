@@ -25,11 +25,11 @@ title: kubernetes Interview k8s_questions
 
 6. Explain kubernetes architecture
 * Master
-** kube-api server
-** scheduler
-** controler-manager
-** etcd
+ *  kube-api server
+ * scheduler
+ * controler-manager
+ * etcd
 * Node
-** kubelet
-** kube-proxy
-** Container runtime (docker)
+ * kubelet
+ * kube-proxy
+ * Container runtime (docker)
