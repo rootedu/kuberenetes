@@ -3,7 +3,6 @@ id: installing_k8s
 title: Installing kubernetes using kubeadm
 ---
 
-
 Step1: Install Docker
 
 ```

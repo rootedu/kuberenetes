@@ -33,3 +33,14 @@ title: kubernetes Interview k8s_questions
  * kubelet
  * kube-proxy
  * Container runtime (docker)
+
+7. Image vs Container
+* Docker image is a template which contains base os and application services and data
+* Docker container is a copy of docker image with resources like cpu, memory, network and storage
+
+6. Docker swarm vs docker compose?
+
+7. Difference between bridge and overlay network
+
+8. What is the difference between container and a vm
+
