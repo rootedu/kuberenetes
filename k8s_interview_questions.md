@@ -44,3 +44,5 @@ title: kubernetes Interview k8s_questions
 
 8. What is the difference between container and a vm
 
+9. What is replicaset?
+
